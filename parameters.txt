@@ -1,0 +1,8 @@
+LD(1) or DD(0): 1
+Initial ZT: 0
+ZT of Lights ON: 6
+ZT of Lights OFF:18
+Skew model (1) or Gaussian (0): 1
+Excel Data (1) or Elementary(0): 1
+Number of Hours included: 48
+Number of Hours between samples: 0.5
